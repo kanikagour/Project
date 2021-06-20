@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+        body{
+            margin: 0;
+            padding: 0;
+            background-image: url(results.jpeg);
+            background-size: 1400px 600px;
+        }
+        .warp{
+            width: 900px;
+            height: 500px;
+            margin: 0 auto;
+            background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));
+            color: white;
+        }
+        .warp h1{
+            text-align: center;
+            text-transform: uppercase;
+            margin-top: 40px;
+        }
+        .warp h2{
+            text-align: left;
+            color:white;
+        }
+        .l1{
+            width: 90%;
+            background-color:turquoise;
+            color:black;
+        }
+        .l2{
+            width: 70%;
+            background-color:turquoise;
+            color:black;
+        }
+        .l3{
+            width: 40%;
+            background-color:turquoise;
+            color:black;
+        }

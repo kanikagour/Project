@@ -1,0 +1,53 @@
+@charset "ISO-8859-1";
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/resources/img/clg1.jpg);
+            background-size: 1365px 660px;
+            background-position: 0px 0px;
+            
+        }
+        ul{
+            float: left;
+            list-style-type: none;
+            margin: 25px;
+        }
+        ul li{
+            display: inline-block;
+            padding: 5px;
+        
+        }
+        ul li a
+        {
+            text-decoration: none;
+            color: #fff;
+            padding: 5px 20px;
+            border: 1px solid transparent;
+
+        }
+        ul li a:hover{
+            background-color:black;
+            color: gold;
+        }
+        .main{
+            background-image: linear-gradient();
+            max-width: 1200px;
+            margin: auto;
+        }
+        .title{
+            background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            border: 1px solid #fff;
+        }
+        .title p{
+            color: rgb(252, 249, 251);
+            font-size: 50px;
+            font-style: italic;
+            
+        }
+  

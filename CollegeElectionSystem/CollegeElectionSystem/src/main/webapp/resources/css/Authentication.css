@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+            body {
+                background-image: url(/resources/img/clg1.jpg);
+                background-size: 100%;
+                background-position: 0px 0px;
+                
+    
+            }
+          h1   {color: black; 
+            margin: 40px;}
+            
+
+div.authuntication{
+            background-color: rgba(0,0,0,0.7);
+            width:100% ;
+            font-size: 20px;
+            border-radius: 10px;
+            border: 1px soid rgba(255,255,255,0.2);
+            box-shadow: 2px 2px 15px rbga(0,0,0,0.5) ;
+            color:cornsilk;
+        }
+        #que{
+        color:WHITE;
+        }
+        #userid{
+            width: 70%;
+        }

@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+   
+            body{
+                background-image: url(candreg.jpg);
+                background-size: 1400px 650px;
+            }
+            div.main{
+            width: 300px;
+            margin:100px auto 0px auto;
+            }
+            div.register{
+            background-color: rgba(0,0,0,0.8);
+            width:100% ;
+            font-size: 18px;
+            border-radius: 10px;
+            border: 1px soid rgba(255,255,255,0.2);
+            box-shadow: 2px 2px 15px rbga(0,0,0,0.5) ;
+            color:cornsilk;
+            }
+            table{
+                color: #fff;
+                font-size: 13px;
+            }
+            table td{
+                padding: 10px;
+            }
